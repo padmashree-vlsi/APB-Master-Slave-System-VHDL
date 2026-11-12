@@ -220,35 +220,21 @@ APB\_Master\_Slave\_System/
 
 
 
-\## Simulation Waveform
+## Simulation Waveform
 
+![APB Master-Slave Simulation](./screenshots/apb_master_slave_simulation.png)
 
+## Synthesized Schematic
 
-![APB Master-Slave Simulation](screenshots/apb_master_slave_simulation.png)
+![Synthesized Schematic](./screenshots/apb_master_slave_synthesized_schematic.png)
 
-\## Synthesized Schematic
+## Implemented Schematic
 
+![Implemented Schematic](./screenshots/apb_master_slave_implemented_schematic.png)
 
+## Timing Summary
 
-![Synthesized Schematic](screenshots/apb_master_slave_synthesized_schematic.png)
-
-
-
-\## Implemented Schematic
-
-
-
-![Implemented Schematic](screenshots/apb_master_slave_implemented_schematic.png)
-
-
-
-\## Timing Summary
-
-
-
-![Timing Summary](screenshots/apb_master_slave_timing_summary.png)
-
-
+![Timing Summary](./screenshots/apb_master_slave_timing_summary.png)
 \## Key Learning Outcomes
 
 
