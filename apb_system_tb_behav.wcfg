@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="apb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="apb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/apb_top/PCLK" type="logic">
+      <obj_property name="ElementShortName">PCLK</obj_property>
+      <obj_property name="ObjectShortName">PCLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PRESETn" type="logic">
+      <obj_property name="ElementShortName">PRESETn</obj_property>
+      <obj_property name="ObjectShortName">PRESETn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/write_en" type="logic">
+      <obj_property name="ElementShortName">write_en</obj_property>
+      <obj_property name="ObjectShortName">write_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/addr" type="array">
+      <obj_property name="ElementShortName">addr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/wdata" type="array">
+      <obj_property name="ElementShortName">wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/rdata" type="array">
+      <obj_property name="ElementShortName">rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/error" type="logic">
+      <obj_property name="ElementShortName">error</obj_property>
+      <obj_property name="ObjectShortName">error</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PSEL_s" type="logic">
+      <obj_property name="ElementShortName">PSEL_s</obj_property>
+      <obj_property name="ObjectShortName">PSEL_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PENABLE_s" type="logic">
+      <obj_property name="ElementShortName">PENABLE_s</obj_property>
+      <obj_property name="ObjectShortName">PENABLE_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PWRITE_s" type="logic">
+      <obj_property name="ElementShortName">PWRITE_s</obj_property>
+      <obj_property name="ObjectShortName">PWRITE_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PADDR_s" type="array">
+      <obj_property name="ElementShortName">PADDR_s[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PADDR_s[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PWDATA_s" type="array">
+      <obj_property name="ElementShortName">PWDATA_s[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PWDATA_s[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PRDATA_s" type="array">
+      <obj_property name="ElementShortName">PRDATA_s[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PRDATA_s[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PREADY_s" type="logic">
+      <obj_property name="ElementShortName">PREADY_s</obj_property>
+      <obj_property name="ObjectShortName">PREADY_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/apb_top/PSLVERR_s" type="logic">
+      <obj_property name="ElementShortName">PSLVERR_s</obj_property>
+      <obj_property name="ObjectShortName">PSLVERR_s</obj_property>
+   </wvobject>
+</wave_config>
