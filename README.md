@@ -230,7 +230,7 @@ APB\_Master\_Slave\_System/
 
 
 
-!\[Synthesized Schematic](screenshots/apb\_master\_slave\_synthesized\_schematic.png)
+![Synthesized Schematic](screenshots/apb_master_slave_synthesized_schematic.png)
 
 
 
@@ -238,7 +238,7 @@ APB\_Master\_Slave\_System/
 
 
 
-!\[Implemented Schematic](screenshots/apb\_master\_slave\_implemented\_schematic.png)
+![Implemented Schematic](screenshots/apb_master_slave_implemented_schematic.png)
 
 
 
@@ -246,8 +246,7 @@ APB\_Master\_Slave\_System/
 
 
 
-!\[Timing Summary](screenshots/apb\_master\_slave\_timing\_summary.png)
-
+![Timing Summary](screenshots/apb_master_slave_timing_summary.png)
 
 
 \## Key Learning Outcomes
