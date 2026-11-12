@@ -224,9 +224,7 @@ APB\_Master\_Slave\_System/
 
 
 
-!\[APB Master-Slave Simulation](screenshots/apb\_master\_slave\_simulation.png)
-
-
+![APB Master-Slave Simulation](screenshots/apb_master_slave_simulation.png)
 
 \## Synthesized Schematic
 
