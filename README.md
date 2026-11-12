@@ -226,15 +226,16 @@ APB\_Master\_Slave\_System/
 
 ## Synthesized Schematic
 
-![Synthesized Schematic](./screenshots/apb_master_slave_synthesized_schematic.png)
+![Synthesized Schematic](./apb_master_slave_synthesized_schematic.png)
 
 ## Implemented Schematic
 
-![Implemented Schematic](./screenshots/apb_master_slave_implemented_schematic.png)
+![Implemented Schematic](./apb_master_slave_implemented_schematic.png)
+
 
 ## Timing Summary
 
-![Timing Summary](./screenshots/apb_master_slave_timing_summary.png)
+![Timing Summary](./apb_master_slave_timing_summary.png)
 
 
 \## Key Learning Outcomes
