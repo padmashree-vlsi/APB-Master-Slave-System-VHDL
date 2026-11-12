@@ -222,7 +222,7 @@ APB\_Master\_Slave\_System/
 
 ## Simulation Waveform
 
-![APB Master-Slave Simulation](./screenshots/apb_master_slave_simulation.png)
+![APB Master-Slave Simulation](./apb_master_slave_simulation.png)
 
 ## Synthesized Schematic
 
